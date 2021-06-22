@@ -1,0 +1,7 @@
+-------------------------------------------------------------
+Weather Stats for - MYSORE  || 22 Jun 2021 | 10:35:15 PM
+-------------------------------------------------------------
+Current temperature is: 22.92 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 78 %
+Current wind speed    : 4.13 kmph
